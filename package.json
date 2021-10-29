@@ -1,0 +1,28 @@
+{
+  "name": "skynet-upload-test",
+  "version": "1.0.0",
+  "description": "Simple Skynet Uploader Test",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kwypchlo/skynet-upload-test.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kwypchlo/skynet-upload-test/issues"
+  },
+  "homepage": "https://github.com/kwypchlo/skynet-upload-test#readme",
+  "dependencies": {
+    "skynet-js": "^4.0.18-beta"
+  },
+  "devDependencies": {
+    "copy-webpack-plugin": "^9.0.1",
+    "webpack": "^5.60.0",
+    "webpack-cli": "^4.9.1"
+  }
+}
